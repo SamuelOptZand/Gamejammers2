@@ -8,4 +8,16 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/SampleScene.unity
     guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/GameTest123.unity
+    guid: e5504e9883af307489d37a64835974e3
+  - enabled: 1
+    path: Assets/Scenes/Meid.unity
+    guid: 36546d2e8e4bd6a4aad6e020fd833b10
+  - enabled: 1
+    path: Assets/Scenes/Start.unity
+    guid: c50b91d565d2e83439e844ccf0ef3796
+  - enabled: 1
+    path: Assets/Scenes/Escape Room.unity
+    guid: 44eca05d92f38a548b4f8b1a515f9c27
   m_configObjects: {}
